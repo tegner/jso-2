@@ -1,6 +1,6 @@
 {
   "name": "jso-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OAuth 2.0 implementation in Javascript based on JSO",
   "main": "dist/jso.js",
   "module": "src/JSO.js",
@@ -51,5 +51,6 @@
     "@babel/preset-env": "^7.8.7",
     "@babel/preset-react": "^7.8.3",
     "core-js": "^3.6.4"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
