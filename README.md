@@ -1,4 +1,4 @@
-# JSO 2 Based upon the original JSO
+# JSO update based upon the original JSO
 
 All done in this repo is update the react dependencies.
 
