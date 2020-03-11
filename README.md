@@ -4,6 +4,15 @@ All done in this repo is update the react dependencies.
 
 The README below is a direct copy.
 
+*NB!* you should import JSO from jso-2 in this version, everything else should be the same.
+
+```javascript
+import {JSO, Popup} from 'jso-2'
+
+let config = {...}
+let j = new JSO(config)
+```
+
 ## JSO – OAuth 2.0 Client with Javascript
 
 [![Build Status](https://travis-ci.org/andreassolberg/jso.svg?branch=master)](https://travis-ci.org/andreassolberg/jso)
