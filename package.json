@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andreassolberg/jso.git"
+    "url": "https://github.com/tegner/jso-2.git"
   },
   "keywords": [
     "oauth",
@@ -45,7 +45,7 @@
   "bugs": {
     "url": "https://github.com/andreassolberg/jso/issues"
   },
-  "homepage": "https://github.com/andreassolberg/jso",
+  "homepage": "https://github.com/tegner/jso-2",
   "dependencies": {
     "@babel/core": "^7.8.7",
     "@babel/preset-env": "^7.8.7",
